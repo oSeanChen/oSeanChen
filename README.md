@@ -1,4 +1,4 @@
-# Welcome to me github.
+# Welcome to my github.
 ### beginning of Ruby on Rails webdeveloper, learing from the programing process and trying to write in my Blog.
 
 ### :computer: link to  my [Blog](https://oseanchen.github.io/)
