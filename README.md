@@ -1,5 +1,7 @@
 # Welcome to my github.
-### Java webdeveloper, 
+### Java developer 
+### Skills: Java / SpringBoot / Kotlin / html / CSS / JS / vue.js
+
 ### Keep learing from the programing process and recording to Blogs.
 
 ### :computer: link to  my [Blog](https://oseanchen.github.io/)
