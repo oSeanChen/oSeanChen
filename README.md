@@ -1,5 +1,5 @@
 # Welcome to my github.
-### Beginning of Ruby on Rails webdeveloper, 
+### Java webdeveloper, 
 ### Keep learing from the programing process and recording to Blogs.
 
 ### :computer: link to  my [Blog](https://oseanchen.github.io/)
