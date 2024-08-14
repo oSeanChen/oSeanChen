@@ -1,6 +1,6 @@
 # Welcome to my github.
 ### Java developer 
-### Skills: Java / SpringBoot / Kotlin / html / CSS / JS / vue.js
+### Skills: Java / SpringBoot / html / CSS / JS / vue.js
 
 ### Keep learing from the programing process and recording to Blogs.
 
